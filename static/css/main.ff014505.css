@@ -12142,7 +12142,7 @@ div.Bimage img {
     width: 100%;
   }
 }
-@media only screen and (max-width: 480px) and (min-width: 390px) {
+@media only screen and (max-width: 480px) and (min-width: 360px) {
   div#banner-text h1 {
     font-size: 55px;
     line-height: 55px;
@@ -12208,7 +12208,7 @@ div#img-box .img-1 img {
     justify-content: center;
   }
 }
-@media only screen and (max-width: 480px) and (min-width: 390px) {
+@media only screen and (max-width: 480px) and (min-width: 360px) {
   #OR-Box .line-text {
     font-size: 24px;
     text-align: center !important;
@@ -12295,7 +12295,7 @@ div#Case-box button.owl-prev {
     font-size: 16px;
   }
 }
-@media only screen and (max-width: 480px) and (min-width: 390px) {
+@media only screen and (max-width: 480px) and (min-width: 360px) {
   div#Case-box .caseCol1 {
     font-size: 18px;
   }
@@ -12439,7 +12439,7 @@ div#Case-box button.owl-prev {
     margin-bottom: 60px;
   }
 }
-@media only screen and (max-width: 480px) and (min-width: 390px) {
+@media only screen and (max-width: 480px) and (min-width: 360px) {
   #youbest .text-1 p {
     font-size: 45px;
     line-height: 55px;
@@ -12576,7 +12576,7 @@ div#Case-box button.owl-prev {
     padding: 0;
   }
 }
-@media only screen and (max-width: 480px) and (min-width: 390px) {
+@media only screen and (max-width: 480px) and (min-width: 360px) {
   #SC-box .SC-text h2 {
     font-size: 40px;
   }
@@ -12705,7 +12705,7 @@ div#Case-box button.owl-prev {
     padding: 0 6px;
   }
 }
-@media only screen and (max-width: 480px) and (min-width: 390px) {
+@media only screen and (max-width: 480px) and (min-width: 360px) {
   #custom-box .addWidth {
     width: 90%;
   }
@@ -12778,7 +12778,7 @@ div#Case-box button.owl-prev {
     line-height: 45px;
   }
 }
-@media only screen and (max-width: 480px) and (min-width: 390px) {
+@media only screen and (max-width: 480px) and (min-width: 360px) {
   #industry p {
     font-size: 65px;
   }
@@ -12867,7 +12867,7 @@ div#Case-box button.owl-prev {
     width: 100%;
   }
 }
-@media only screen and (max-width: 480px) and (min-width: 390px) {
+@media only screen and (max-width: 480px) and (min-width: 360px) {
   #forever .for-Box h3 {
     font-size: 35px;
     line-height: 50px;
@@ -13025,7 +13025,7 @@ button.owl-prev i:hover {
     top: -9.2rem;
   }
 }
-@media only screen and (max-width: 480px) and (min-width: 390px) {
+@media only screen and (max-width: 480px) and (min-width: 360px) {
   #tech-life .smile h2 {
     font-size: 18px;
   }
@@ -13215,7 +13215,7 @@ div#Case-box11 .caseCol22 {
     font-size: 14px;
   }
 }
-@media only screen and (max-width: 480px) and (min-width: 390px) {
+@media only screen and (max-width: 480px) and (min-width: 360px) {
   div#Case-box11 .caseCol22 {
     font-size: 18px;
   }
@@ -13302,7 +13302,7 @@ div#Case-box11 .caseCol22 {
     margin: 30px 0 0;
   }
 }
-@media only screen and (max-width: 480px) and (min-width: 390px) {
+@media only screen and (max-width: 480px) and (min-width: 360px) {
   #discuss .discussText h3 {
     font-size: 28px;
     line-height: 38px;
@@ -13359,7 +13359,7 @@ span.navbar-toggler-icon {
     margin-right: 12px;
   }
 }
-@media only screen and (max-width: 480px) and (min-width: 390px) {
+@media only screen and (max-width: 480px) and (min-width: 360px) {
   #foot-menu #basic-navbar-nav .nav-link {
     font-size: 13px;
     margin-right: 8px;
@@ -13469,7 +13469,7 @@ span.navbar-toggler-icon {
   line-height: 25px;
   text-align: center;
 }
-@media only screen and (max-width: 480px) and (min-width: 390px) {
+@media only screen and (max-width: 480px) and (min-width: 360px) {
   #copyryt .copyright h3 {
     color: #fff;
     font-size: 500;
