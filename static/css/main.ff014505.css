@@ -12335,7 +12335,8 @@ div#Case-box button.owl-prev {
 #youbest .bestBox-2,
 #youbest .bestBox-3,
 #youbest .bestBox-4 {
-  background: url(./React-Techies-Live/static/media/Asset1.594c9ced385a0c9aead9.png), #36164a;
+  background: url(/React-Techies-Live/static/media/Asset1.594c9ced385a0c9aead9.png),
+    #36164a;
   background-position: 100%;
   background-repeat: no-repeat;
   border: none;
@@ -12355,17 +12356,20 @@ div#Case-box button.owl-prev {
   -webkit-filter: grayscale(0);
 }
 #youbest .bestBox-2 {
-  background: url(/static/media/Asset2.3cec5be971258446a811.png), #00051c;
+  background: url(/React-Techies-Live/static/media/Asset2.3cec5be971258446a811.png),
+    #00051c;
   background-position: 100%;
   background-repeat: no-repeat;
 }
 #youbest .bestBox-3 {
-  background: url(/static/media/Asset3.01bebe1c0b3aabb00b1d.png), #282451;
+  background: url(/React-Techies-Live/static/media/Asset3.01bebe1c0b3aabb00b1d.png),
+    #282451;
   background-position: 100%;
   background-repeat: no-repeat;
 }
 #youbest .bestBox-4 {
-  background: url(/static/media/Asset4.2e1c994284606011b2ad.png), #36164a;
+  background: url(/React-Techies-Live/static/media/Asset4.2e1c994284606011b2ad.png),
+    #36164a;
   background-position: 100%;
   background-repeat: no-repeat;
 }
@@ -12482,7 +12486,7 @@ div#Case-box button.owl-prev {
   text-align: center;
 }
 #SC-box .SC-img {
-  background-image: url(/static/media/Group1.25b0fea926d5eb9ff174.png);
+  background-image: url(/React-Techies-Live/static/media/Group1.25b0fea926d5eb9ff174.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -12490,7 +12494,7 @@ div#Case-box button.owl-prev {
   width: 100%;
 }
 #SC-box .SC-img .grpPic-1 {
-  background-image: url(/static/media/Group2.9ac6f5bd902e43f94df9.png);
+  background-image: url(/React-Techies-Live/static/media/Group2.9ac6f5bd902e43f94df9.png);
 }
 #SC-box .SC-img .grpPic-1,
 #SC-box .SC-img .grpPic-2 {
@@ -12504,10 +12508,10 @@ div#Case-box button.owl-prev {
   width: 70%;
 }
 #SC-box .SC-img .grpPic-2 {
-  background-image: url(/static/media/Group3.40af95bb366032bd5196.png);
+  background-image: url(/React-Techies-Live/static/media/Group3.40af95bb366032bd5196.png);
 }
 #SC-box .SC-img .grpPic-3 {
-  background-image: url(/static/media/Group4.c8a947f7b43250ca700d.png);
+  background-image: url(/React-Techies-Live/static/media/Group4.c8a947f7b43250ca700d.png);
 }
 #SC-box .SC-img .grpPic-3,
 #SC-box .SC-img .grpPic-4 {
@@ -12521,7 +12525,7 @@ div#Case-box button.owl-prev {
   width: 70%;
 }
 #SC-box .SC-img .grpPic-4 {
-  background-image: url(/static/media/Group5.7afac9f1fe70908e7729.png);
+  background-image: url(/React-Techies-Live/static/media/Group5.7afac9f1fe70908e7729.png);
 }
 #SC-box .SC-img .grpPic-1 p,
 #SC-box .SC-img .grpPic-3 p {
